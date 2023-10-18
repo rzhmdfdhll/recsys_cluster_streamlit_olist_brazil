@@ -11,3 +11,6 @@ Berikut adalah tangkapan gambar recommendation system menggunakan streamlit :
 Berikut adalah tangkapan gambar customer segmentation clustering menggunakan streamlit :
 
 ![Screenshot 2023-10-18 191955](https://github.com/rzhmdfdhll/recsys_cluster_streamlit_olist_brazil/assets/134949292/e695288a-6867-4026-a8e9-332db5e64166)
+
+Berikut adalah link model :
+https://drive.google.com/drive/folders/1bvYG_3Qytm23layKBJXD4m3V9DVjb_G-
